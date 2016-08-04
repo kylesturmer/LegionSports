@@ -1,3 +1,11 @@
-mytop {
+.mytop {
 	margin-top: 10px;
+}
+
+#side-bar {
+	color: #fff;
+    background-color: #D3D3D3;
+    background-repeat: repeat-y;
+	height: 500px;
+	padding-top: 50px;
 }
